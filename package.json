@@ -1,7 +1,7 @@
 {
   "name": "bravo-api",
   "version": "1.0.0",
-  "description": "B.R.A.V.O (BT-Radio Advanced Visual Orchestration) API - REST/GraphQL endpoints for device registration, telemetry, and OTA updates",
+  "description": "B.R.A.V.O (Beacon Relay Asset View Orchestration) API - REST/GraphQL endpoints for device registration, telemetry, and OTA updates",
   "main": "dist/lambda/rest.js",
   "scripts": {
     "build": "tsc",
@@ -22,7 +22,7 @@
     "rest",
     "aws"
   ],
-  "author": "BT-Radio Advanced Visual Orchestration",
+  "author": "Beacon Relay Asset View Orchestration",
   "license": "ISC",
   "devDependencies": {
     "@types/aws-lambda": "^8.10.156",

@@ -1,6 +1,6 @@
 # B.R.A.V.O API
 
-**B**T-**R**adio **A**dvanced **V**isual **O**rchestration API
+**B**eacon **R**elay **A**sset **V**iew **O**rchestration API
 
 A Node.js/TypeScript serverless API providing REST and GraphQL endpoints for IoT device management, telemetry data collection, and Over-The-Air (OTA) firmware updates.
 
@@ -57,7 +57,7 @@ api/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/BT-Radio-Advanced-Visual-Orchestration/api.git
+git clone https://github.com/beacon-relay-asset-view-orchestration/api.git
 cd api
 ```
 
